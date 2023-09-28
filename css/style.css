@@ -464,28 +464,35 @@ h1,h2,h3,p{margin: 0;}
 
 .social-media-two{fill:#f4f4fd}
 .subscribe-footer {
+    margin: 0;
     display: flex;
-    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;}
+    
 }
 
 
 .subscribe-footer{
+    margin: 0 ;
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex-direction: column;}
-.form-footer{
+    justify-content: center;  }
+
+    .form-footer{
     display: flex;
     gap :24px;
+    align-items: center;
 }
 
 .label-text{
+    margin-top: 0;
     margin-bottom: 16px;
     font-weight:500;
     font-size: 16px;
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
-    color: #ffffff;}
+    color: #ffffff;
+    }
 .email-foot {
     flex-grow: 1;
     width: 264px;
