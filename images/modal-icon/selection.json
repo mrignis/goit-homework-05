@@ -4,6 +4,39 @@
     {
       "icon": {
         "paths": [
+          "M512 512c94.293 0 170.667-76.373 170.667-170.667s-76.373-170.667-170.667-170.667c-94.293 0-170.667 76.373-170.667 170.667s76.373 170.667 170.667 170.667zM512 597.333c-113.92 0-341.333 57.173-341.333 170.667v42.667c0 23.467 19.2 42.667 42.667 42.667h597.333c23.467 0 42.667-19.2 42.667-42.667v-42.667c0-113.493-227.413-170.667-341.333-170.667z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "person-black-18dp 1 (2)"
+        ],
+        "colorPermutations": {
+          "1229229229124424425312522522521255255255146476616475191177902291": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 45,
+        "id": 13,
+        "name": "person-black-18dp-1-2",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 6,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M628.322 591.578l-78.43-8.956c-18.833-2.159-37.359 4.326-50.637 17.6l-56.815 56.815c-87.381-44.463-159.016-115.789-203.479-203.477l57.122-57.125c13.277-13.277 19.761-31.803 17.6-50.639l-8.954-77.81c-3.705-31.186-29.951-54.653-61.445-54.653h-53.417c-34.891 0-63.916 29.024-61.754 63.916 16.365 263.692 227.255 474.273 490.634 490.636 34.893 2.163 63.915-26.863 63.915-61.751v-53.419c0.311-31.185-23.155-57.429-54.34-61.137z"
         ],
         "attrs": [
@@ -17,7 +50,7 @@
           "phone-black-18dp 1 (1)"
         ],
         "colorPermutations": {
-          "1229229229125225225212552552551464766177902291": [
+          "1229229229124424425312522522521255255255146476616475191177902291": [
             {}
           ]
         }
@@ -26,53 +59,14 @@
         {}
       ],
       "properties": {
-        "order": 29,
+        "order": 34,
         "id": 9,
         "name": "phone-black",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 6,
-      "iconIdx": 0
-    },
-    {
-      "icon": {
-        "paths": [
-          "M512 512c94.293 0 170.667-76.373 170.667-170.667s-76.373-170.667-170.667-170.667c-94.293 0-170.667 76.373-170.667 170.667s76.373 170.667 170.667 170.667zM512 597.333c-113.92 0-341.333 57.173-341.333 170.667v42.667c0 23.467 19.2 42.667 42.667 42.667h597.333c23.467 0 42.667-19.2 42.667-42.667v-42.667c0-113.493-227.413-170.667-341.333-170.667z"
-        ],
-        "attrs": [
-          {
-            "fill": "rgb(77, 90, 229)"
-          }
-        ],
-        "isMulticolor": false,
-        "isMulticolor2": false,
-        "grid": 0,
-        "tags": [
-          "person-black-18dp 1 (1)"
-        ],
-        "colorPermutations": {
-          "1229229229125225225212552552551464766177902291": [
-            {
-              "f": 2
-            }
-          ]
-        }
-      },
-      "attrs": [
-        {
-          "fill": "rgb(77, 90, 229)"
-        }
-      ],
-      "properties": {
-        "order": 28,
-        "id": 8,
-        "name": "person-black",
-        "prevSize": 32
-      },
-      "setIdx": 0,
-      "setId": 6,
-      "iconIdx": 1
+      "iconIdx": 4
     },
     {
       "icon": {
@@ -89,7 +83,7 @@
           "close-black-18dp (2) 1"
         ],
         "colorPermutations": {
-          "1229229229125225225212552552551464766177902291": [
+          "1229229229124424425312522522521255255255146476616475191177902291": [
             {}
           ]
         }
@@ -98,14 +92,14 @@
         {}
       ],
       "properties": {
-        "order": 26,
+        "order": 44,
         "id": 7,
         "name": "close-black",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 6,
-      "iconIdx": 2
+      "iconIdx": 6
     },
     {
       "icon": {
@@ -123,7 +117,7 @@
           "email-black-18dp 1"
         ],
         "colorPermutations": {
-          "1229229229125225225212552552551464766177902291": [
+          "1229229229124424425312522522521255255255146476616475191177902291": [
             {}
           ]
         }
@@ -132,14 +126,46 @@
         {}
       ],
       "properties": {
-        "order": 27,
+        "order": 32,
         "id": 6,
         "name": "email-black",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 6,
-      "iconIdx": 3
+      "iconIdx": 7
+    },
+    {
+      "icon": {
+        "paths": [
+          "M896 0h-768c-70.4 0-128 57.6-128 128v768c0 70.4 57.6 128 128 128h768c70.4 0 128-57.6 128-128v-768c0-70.4-57.6-128-128-128zM448 794.51l-237.254-237.256 90.51-90.508 146.744 146.744 306.746-306.746 90.508 90.51-397.254 397.256z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "checkbox-checked",
+          "checkbox",
+          "tick",
+          "checked",
+          "selected"
+        ],
+        "grid": 16
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 2,
+        "id": 1,
+        "prevSize": 32,
+        "name": "checkbox-checked"
+      },
+      "setIdx": 4,
+      "setId": 2,
+      "iconIdx": 1
     }
   ],
   "height": 1024,
@@ -164,7 +190,7 @@
       "useClassSelector": true,
       "color": 0,
       "bgColor": 16777215,
-      "name": "astronavt",
+      "name": "modal-icon",
       "classSelector": ".icon",
       "height": 32,
       "columns": 16,
@@ -175,7 +201,8 @@
     },
     "historySize": 50,
     "quickUsageToken": {
-      "UntitledProject1": "ZDBmOTE0MDYyNCMxNjk2MDAyMjI0I0lRZGpNeWFnbHFJYm9lenhLVTVVZG4vYkloNVFhQzZHcjM4STdGaXVhNndx"
-    }
+      "UntitledProject1": "ODcxNTRjZmIzYSMxNjk2MjY1MzI1I0VodzBCa09hRHJnZmsxVWo0MWlHemZxUWpFbmVEcm9JL0RFTjVXVGVlK3JX"
+    },
+    "gridSize": 16
   }
 }
