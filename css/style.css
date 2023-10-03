@@ -700,6 +700,8 @@ h1,h2,h3,p{margin: 0;}
 	fill: transparent;
 	margin-right: 8px;
 }
+.checkbox-icon{width: 16px;
+    height: 16px;}
 
 .modal-form-checkbox-input:checked + .modal-form-terms .modal-form-terms-pp {
 	background-color: #404bbf;
